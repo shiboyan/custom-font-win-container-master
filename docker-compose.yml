@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  customfontsample:
+    image: ${DOCKER_REGISTRY-}customfontsample
+    build:
+      context: .\CustomFontSample
+      dockerfile: Dockerfile
