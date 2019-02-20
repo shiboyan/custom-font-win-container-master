@@ -150,6 +150,7 @@
       <DependentUpon>Dockerfile</DependentUpon>
     </None>
     <None Include="Properties\PublishProfiles\cephalin.pubxml" />
+    <None Include="Properties\PublishProfiles\CustomFont - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\CustomFontSample - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
